@@ -1,2 +1,3 @@
-# tellme
-CLI for free OSINT APIs
+# lookup
+Modular swiss army knife cli tool for free OSINT lookups
+
